@@ -1,6 +1,7 @@
-Recipe please!
+Master Thesis 
+Frontend developer, KYH 2023
 
-Videodemo: https://drive.google.com/file/d/1et3at0gV3gQEm5BQwTgDKv6d037ukQ84/view?usp=sharing
+Recipe please!
 
 
 Categorised meals list with steps, ingredients and level of difficulty.
